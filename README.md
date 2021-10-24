@@ -1,7 +1,7 @@
-- Hi, I’m @JGabrielNeto
+- Hi, I’m João Gabriel (you can call me Gabriel).
 - I'm learning to code, and i'm interested in Fullstack development!
 - Currently i'm learning to code html, css and js creating web pages.
-- You can reach me via <a href="https://instagram.com/joaogabrielsneto" target="_blank"> Instagram<a/> or <a href="https://www.facebook.com/joaogabriel.dantasneto" target="_blank">Facebook<a/>.
+- You can reach me via <a href="https://instagram.com/joaogabrielsneto" target="_blank"> Instagram<a/> or <a href="https://www.facebook.com/joaogabriel.dantasneto" target="_blank">Facebook<a/>, or send me an e-mail: JGabrielNeto.dev@gmail.com 
 
 <!---
 JGabrielNeto/JGabrielNeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

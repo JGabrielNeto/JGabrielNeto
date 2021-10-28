@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JGabrielNeto&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer, interested in HTML, JS, CSS, React.JS and Node.JS. 
-- 
+
 - 🚀 Currently I'm working on improving my skills as a dev.
 
 - ⚡ You can see my first project live <a href="https://jgabrielneto.github.io/NLW-Heat-Origin-JGabriel/">here!</a>

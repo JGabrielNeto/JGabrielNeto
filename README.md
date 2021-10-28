@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JGabrielNeto&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer, interested in HTML, JS, CSS, React.JS and Node.JS. 
-
-- 👨‍💻 All of my projects are available right here.
-
+- 
 - 🚀 Currently I'm working on improving my skills as a dev.
 
 - ⚡ You can see my first project live <a href="https://jgabrielneto.github.io/NLW-Heat-Origin-JGabriel/">here!</a>
@@ -22,15 +20,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JGabrielNeto&show_icons=true&theme=vision-friendly-dark" alt="JGabriel's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielNeto&layout=compact&theme=vision-friendly-dark" alt="JGabriel's most languages"/>
-</p>
-
-<br><br>
-
 ## 🌐 &nbsp;How to reach me:
 
 <p align="left" style="background:yellow">
@@ -43,9 +32,17 @@
 <a href="https://web.whatsapp.com/send?1=pt_BR&phone=5599991777596" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Send%20me%20a%20message-05122A?style=flat&logo=whatsapp" alt="instagram"/>
 </a>
- 
- 
 </p>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JGabrielNeto&show_icons=true&theme=vision-friendly-dark" alt="JGabriel's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielNeto&layout=compact&theme=vision-friendly-dark" alt="JGabriel's most languages"/>
+</p>
+
+<br><br>
+
 
 
 <!--

@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JGabrielNeto/c8c286ec4a87199ff065776fbd51461e/raw/eb43bb47411d584505fd9f6d6bfea1e5eb59398f/JG.svg"/>
 <h1 align="left">Hello world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Gabriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JGabrielNeto&color=yellow" alt="Profile views" /> </p>
 

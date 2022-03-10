@@ -1,9 +1,9 @@
 <h1 align="left">Hello world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Gabriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JGabrielNeto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer, interested in HTML, JS, CSS, React.JS and Node.JS. 
+- 🔥 Front-end developer. 
 
-- 🚀 Currently I'm working on improving my skills as a dev.
+- 🚀 Currently I'm working on <a href="https://eqi.com.br/" target="_blank">EQI</a> as a front-end developer, working with TypeScript and React/NextJS.
 
 - ⚡ You can see my first project live <a href="https://jgabrielneto.github.io/NLW-Heat-Origin-JGabriel/">here!</a>
 

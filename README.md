@@ -5,8 +5,6 @@
 
 - 🚀 Currently I'm working on <a href="https://eqi.com.br/" target="_blank">EQI</a> as a front-end developer, working with TypeScript and React/NextJS.
 
-- ⚡ You can see my first project live <a href="https://jgabrielneto.github.io/NLW-Heat-Origin-JGabriel/">here!</a>
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack

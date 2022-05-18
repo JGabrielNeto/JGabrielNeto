@@ -35,10 +35,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JGabrielNeto&show_icons=true&theme=vision-friendly-dark" alt="JGabriel's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielNeto&layout=compact&theme=vision-friendly-dark" alt="JGabriel's most languages"/>
-</p>
+<div align="center">
+  <a href="https://github.com/JGabrielNeto">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JGabrielNeto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielNeto&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 <br><br>
 

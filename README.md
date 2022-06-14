@@ -1,4 +1,4 @@
-<h1 align="left">Hello world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Gabriel</h1>
+<h1 align="left">Hello world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> I'm Gabriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JGabrielNeto&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Front-end developer. 

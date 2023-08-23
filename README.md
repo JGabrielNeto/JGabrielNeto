@@ -1,36 +1,30 @@
 <h1 align="left">Hello, world!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JGabrielNeto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Front-end developer. 
-
-- 🚀 Currently I'm working on <a href="https://eqi.com.br/" target="_blank">EQI</a> as a front-end developer, working with TypeScript and React/NextJS.
+- 🚀 Currently I'm working on <a href="https://eqi.com.br/" target="_blank">EQI</a> as a front-end developer.
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 
-![React](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; 
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; 
+![NextJS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp; 
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+![jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
 
 <br><br>
 
 ## 🌐 &nbsp;How to reach me:
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/jgabrielneto-dev/" target="_blank">
+<a href="https://www.linkedin.com/in/jgabrieldev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JGabrielNeto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/joaogabrielsneto" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-JGabrielNeto-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://web.whatsapp.com/send?1=pt_BR&phone=5599991777596" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Send%20me%20a%20message-05122A?style=flat&logo=whatsapp" alt="instagram"/>
-</a>
+  or e-mail me at: jgabrielneto.dev@gmail.com
 </p>
 
 ## ⚙️ &nbsp;GitHub Analytics

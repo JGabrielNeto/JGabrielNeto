@@ -1,9 +1,6 @@
 <h1 align="left">Hello, world!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JGabrielNeto&color=yellow" alt="Profile views" /> </p>
-
 - 🚀 Currently I'm working on <a href="https://eqi.com.br/" target="_blank">EQI</a> as a front-end developer.
-
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -16,26 +13,14 @@
 ![jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
 
-<br><br>
-
 ## 🌐 &nbsp;How to reach me:
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/jgabrieldev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-JGabrielNeto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+  <img align="center" src="https://img.shields.io/badge/-JGabrielNeto-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
   or e-mail me at: jgabrielneto.dev@gmail.com
 </p>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/JGabrielNeto">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JGabrielNeto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielNeto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-
-<br><br>
 
 
 

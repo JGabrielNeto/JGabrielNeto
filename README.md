@@ -13,6 +13,8 @@
 ![jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
 
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielNeto&layout=compact&theme=vision-friendly-dark" alt="JGabriel's most languages"/>
+
 ## 🌐 &nbsp;How to reach me:
 
 <p align="left" style="background:yellow">
@@ -20,7 +22,6 @@
   <img align="center" src="https://img.shields.io/badge/-JGabrielNeto-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
   or e-mail me at: jgabrielneto.dev@gmail.com
 </p>
-
 
 
 

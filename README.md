@@ -1,7 +1,3 @@
-<h1 align="left">Hello, world!</h1>
-- 🚀 Currently I'm working on <a href="https://eqi.com.br/" target="_blank">EQI</a> as a web developer.
-<br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

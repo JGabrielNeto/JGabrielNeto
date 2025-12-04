@@ -1,5 +1,3 @@
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielNeto&layout=compact&theme=vision-friendly-dark" alt="JGabriel's most languages"/>
-
 ## 🌐 &nbsp;How to reach me:
 
 <p align="left" style="background:yellow">
